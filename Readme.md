@@ -165,8 +165,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/medical-image-classifier](https://github.com/yourusername/medical-image-classifier)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/medical-image-classifier/issues)
+- **Project Link**: [https://github.com/yourusername/medical-image-classifier](https://github.com/himani334/medical-image-classifier)
+- **Issues**: [GitHub Issues](https://github.com/himai334/medical-image-classifier/issues)
 
 ---
 
